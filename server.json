@@ -39,6 +39,14 @@
       "category": "dd",
       "type": "income",
       "createdAt": "2025-02-24T18:47:15.513Z"
+    },
+    {
+      "id": "175f",
+      "description": "teste2",
+      "price": 1,
+      "category": "e",
+      "type": "income",
+      "createdAt": "2025-02-25T16:45:47.413Z"
     }
   ]
 }
